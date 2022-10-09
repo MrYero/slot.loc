@@ -1,0 +1,114 @@
+*{
+    margin: auto;
+    width: 600px;
+    background-color: #2b081b;
+}
+.header{
+    background-color: #31092e;
+    height: 100px;
+}
+.inheader{
+    width: 200px;
+    height: 100px;
+    border-color: #4c1022;
+    float: left;
+}
+input, button{
+    width: 200px;
+}
+
+a{
+    color: #907326;
+    text-decoration: none;
+}
+#moneybtn{
+    width: 100px;
+    float: left;
+    height: 40px;
+}
+
+#logo img{
+    height: 100px;
+    width: 100px;
+}
+
+section#Slots{
+    border-radius: 15px;
+    background-color: #ffffff;
+}
+
+section#Gira{
+    margin-top: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-radius: 5px;
+    text-align: center;
+    background-color: #7e4029;
+    color: #FFFFFF;
+    font-size: 25px;
+}
+section#Gira:hover{
+    background-color: #af8439;
+}
+
+#slot1, #slot2, #slot3, #slot4, #slot5 {
+    display: inline-block;
+    margin-left: 14px;
+    background-size: 100px;
+    width: 100px;
+    height: 100px;
+
+}
+section#status{
+    margin-bottom: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-radius: 5px;
+    text-align: center;
+    background-color: #31092e;
+    color: #af8439;
+    font-size: 25px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.money{
+    height: 20px;
+    background-color:#4c1022;
+    color: #af8439;
+}
+
+.a1{
+    background-image: url("tiles/a1.jpg");
+}
+
+.a2{
+    background-image: url("tiles/a2.jpg");
+}
+
+.a3{
+    background-image: url("tiles/a3.jpg");
+}
+
+.a4{
+    background-image: url("tiles/a4.jpg");
+}
+
+.a5{
+    background-image: url("tiles/a5.jpg");
+}
+
+.a6{
+    background-image: url("tiles/a6.jpg");
+}
+
+.a7{
+    background-image: url("tiles/a7.jpg");
+}
+
+.a8{
+    background-image: url("tiles/a8.jpg");
+}
+
+.a9{
+    background-image: url("tiles/a9.jpg");
+}
